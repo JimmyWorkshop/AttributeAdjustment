@@ -2,7 +2,7 @@
 
 ## Installation
 
-Go to releases, download the .zip file for the version you want to use.
+Go to [releases](https://github.com/JimmyWorkshop/AttributeAdjustment/releases), download the .zip file for the version you want to use.
 It's unlikely for updates to break the mod, but dependencies on Harmony and MCM may need updating.
 
  - When you have downloaded the .zip, use your zip extractor program (I use 7zip here) to extract the files.
